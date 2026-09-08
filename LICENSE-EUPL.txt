@@ -1,6 +1,3 @@
-European Union Public Licence v. 1.2 (EUPL-1.2)
-SPDX-License-Identifier: EUPL-1.2
-https://raw.githubusercontent.com/spdx/license-list-data/refs/heads/main/text/EUPL-1.2.txt
 EUROPEAN UNION PUBLIC LICENCE v. 1.2
 EUPL © the European Union 2007, 2016
 
