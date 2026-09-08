@@ -24,6 +24,7 @@ graalvmNative {
             mainClass.set("dev.harless.app.MainKt")
             buildArgs.add("--no-fallback")
             buildArgs.add("-O2")
+            buildArgs.add("--initialize-at-build-time=kotlin,kotlinx")
         }
     }
     // The toolchain detection is disabled so the JVM build works on any JDK;
