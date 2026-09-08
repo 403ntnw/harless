@@ -1,0 +1,18 @@
+[
+  {
+    "id": "answer-grounded-in-tool",
+    "task": "What is 19 + 23, and when did you answer?",
+    "assertions": [
+      { "kind": "ANSWER_CONTAINS", "value": "42" },
+      { "kind": "TOOL_USED", "value": "calc" },
+      { "kind": "TOOL_USED", "value": "clock" }
+    ]
+  },
+  {
+    "id": "no-forbidden-tools",
+    "task": "What is 19 + 23, and when did you answer?",
+    "assertions": [
+      { "kind": "TOOL_NEVER_ATTEMPTED", "value": "shell" }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+Harless
+Copyright (C) 2026 Enrico-Antonio Busuioc
+
+This repository is dual-licensed by module:
+  harless-core  : Apache License 2.0 (see LICENSE-APACHE.txt)
+  harless-app   : European Union Public Licence 1.2 (see LICENSE-EUPL.txt)
+
+Each source file carries the header of its module's licence.
